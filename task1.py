@@ -27,6 +27,8 @@ def check_number_wall(x, table_wall):
                 ans += 1
     return ans
 
+print("111111")
+
 def do_something(x):
     print("1-> move \n2-> place wall \nchoose : ")
     s = input()
