@@ -10,8 +10,6 @@ for i in range(n):
 table_piece[0][4] = 1
 table_piece[8][4] = 2
 
-print("0000000")
-
 for i in range(n-1):
     x = []
     for j in range(n-1):
@@ -27,15 +25,10 @@ def check_number_wall(x, table_wall):
                 ans += 1
     return ans
 
-print("111111")
-
 def do_something(x):
     print("1-> move \n2-> place wall \nchoose : ")
     s = input()
     if(s == '1'): print(0)
     else: print(1)
 
-do_something(13)
-print("salam")
-do_something(2)
-
+do_something(1)
