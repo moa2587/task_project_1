@@ -32,3 +32,5 @@ def do_something(x):
     else: print(1)
 
 do_something(1)
+do_something(2)
+
