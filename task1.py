@@ -28,7 +28,7 @@ def check_number_wall(x, table_wall):
 def do_something(x):
     print("1-> move \n2-> place wall \nchoose : ")
     s = input()
-    if(s == '1'): print(0)
+    if(s == '1'): print(2)
     else: print(1)
 
 do_something(1)
