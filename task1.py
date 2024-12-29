@@ -10,6 +10,8 @@ for i in range(n):
 table_piece[0][4] = 1
 table_piece[8][4] = 2
 
+print(000)
+
 for i in range(n-1):
     x = []
     for j in range(n-1):
