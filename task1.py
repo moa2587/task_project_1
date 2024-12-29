@@ -31,6 +31,7 @@ def do_something(x):
     if(s == '1'): print(0)
     else: print(1)
 
-do_something(1)
+do_something(13)
+print("salam")
 do_something(2)
 
